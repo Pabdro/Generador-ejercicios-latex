@@ -1,4 +1,4 @@
-# Proyecto Generador de ejercicios latex
+# Proyecto Generador de ejercicios latex 🧮🟰🧮➕
 
 ## Información del equipo
 - Nombre: Pablo Alejandro Badani Zambrana
@@ -13,6 +13,7 @@ El proposito del proyecto es crear una aplicacion de creacion aleatoria de ejerc
 * confing: La dependencia que fue usada para la configuración de las variables locales, en específico de la base de datos.
 * MikTex versión 3.14 o en adelante 
 * Nodejs 18.12.1 o en adelante
+* Git: Tener git instalado para luego poder clonar correctamente el repositorio (https://git-scm.com/downloads).
 
 ## Cómo levantar backend
 1. Clonar el repositorio:
